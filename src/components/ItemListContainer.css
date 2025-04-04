@@ -1,0 +1,15 @@
+h1 {
+    color: whitesmoke;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.loading {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+    color: whitesmoke;
+}
+
+
